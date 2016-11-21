@@ -1,0 +1,100 @@
+/* Inserte su codigo aqui */
+body {
+	width: 100%; }
+/*--------------------------------------------------HEADER*/
+header{
+	background: #FCCE09;
+	color: white;
+	width: 100%;
+	height: 500px;  }
+
+header a button {
+	font-size:15px;
+    font-family: Helvetica;
+    color:white;
+    background:#FFB639;
+    border:0px;
+    width:80px;
+    height:38px;
+    margin-top: 50px; }
+
+header ul {
+	list-style: none;
+	margin-top: 30px;
+	position: relative;
+	left: 98%; }
+
+header ul li {
+	display: inline-block; }
+
+header ul li a {
+	color: white;
+	padding: 0 15px; }
+
+header .Titulo {
+	width: 100%;
+	margin-top: 150px;
+	text-align: center; }
+
+.Titulo {
+	position: relative;
+	left: 150px;
+	font-size: 15px; }
+
+.Titulo h3 {
+	font-size: 30px; }
+
+/*------------------------------------------------SECTION*/
+section {
+	width: 80%;
+	margin-left: 60px; }
+
+.gray {
+	background: #CCCCCC;
+	width: 300px;
+	height: 300px;
+	color: #949494;
+	margin: 100px 140px 0 145px;
+	padding: 0;
+	text-align: center; }
+
+.gray h4 {
+	font-size: 30px;
+	line-height: 300px;
+}
+
+section h3 {
+	color: gray;
+	font-size: 30px;
+	margin-left: 100px; }
+
+section p {
+	color: #B3B3B4;
+	width: 400px;
+	margin-left: 100px; }
+
+section a button {
+	font-size:15px;
+    font-family: Helvetica;
+    color:white;
+    background:#FFB639;
+    border:0px;
+    width:100px;
+    height:30px;
+    margin-left: 225px;}
+/*--------------------------------------------FOOTER*/
+footer {
+	background: #2e2e2e;
+	color: #d8d8d8;
+	margin-top: 40px;
+	height: 80px; }
+
+footer div {
+	padding-left: 110px;
+	padding-top: 20px;
+	font-size: 13px; }
+
+
+
+
+
